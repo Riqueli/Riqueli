@@ -1,16 +1,25 @@
-### Hi there 👋
+Oii 👋,Eu sou a Riqueli Silva e atualmente estou iniciando minha carreira na programação👩‍💻
 
-<!--
-**Riqueli/Riqueli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Coding Activity**
+<div align="center">
+  <a href="https://github.com/Riqueli">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Riqueli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riqueli&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://media.discordapp.net/attachments/930872147172286587/930872256433913866/Avatar.png?width=487&height=487" min-width="200px" max-width="200px" width="200px" align="right">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <h3> 🛠 Technologies & Tools </h3>
+  <img align="center" alt="Riqueli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Riqueli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Riqueli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+ ##
+
+<div>
+  <h3> :earth_americas: &nbsp;Where to find me </h3> 
+  <a href="https://www.linkedin.com/in/riquelisilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/queli___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
