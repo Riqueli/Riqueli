@@ -5,7 +5,7 @@ Oii 👋,Eu sou a Riqueli Silva e atualmente estou iniciando minha carreira na p
   <a href="https://github.com/Riqueli">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Riqueli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riqueli&layout=compact&langs_count=7&theme=dracula"/>
-    <img src="https://cdn.discordapp.com/attachments/977373910528049204/977374003364765696/avatar3.jpg" min-width="350px" max-width="300px" width="300px" align="right">
+    <img src="https://cdn.discordapp.com/attachments/977373910528049204/977374003364765696/avatar3.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 </div>
 
 
