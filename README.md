@@ -2,7 +2,7 @@ Oii 👋,Eu sou a Riqueli Silva e atualmente estou iniciando minha carreira na p
 
 <div align="center">
   <a href="https://github.com/Riqueli">
-    <img src="https://cdn.discordapp.com/attachments/977373910528049204/977374003364765696/avatar3.jpg" min-width="300px" max-width="300px" width="300px" align="right">
+    <img src="https://cdn.discordapp.com/attachments/977373910528049204/977374003364765696/avatar3.jpg" min-width="200px" max-width="200px" width="200px" align="right">
 </div>
 
 
