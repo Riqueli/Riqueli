@@ -20,5 +20,4 @@ Oii 👋,Eu sou a Riqueli Silva e atualmente estou iniciando minha carreira na p
 <div>
   <h3> :earth_americas: &nbsp;Where to find me </h3> 
   <a href="https://www.linkedin.com/in/riquelisilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/queli___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
