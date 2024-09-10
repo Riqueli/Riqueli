@@ -1,10 +1,5 @@
 Oii 👋,Eu sou a Riqueli Silva e atualmente estou iniciando minha carreira na programação👩‍💻
 
-<div align="center">
-  <a href="https://github.com/Riqueli">
-    <img src="https://cdn.discordapp.com/attachments/977373910528049204/977374003364765696/avatar3.jpg" min-width="200px" max-width="200px" width="200px" align="right">
-</div>
-
 
 <div style="display: inline_block"><br>
   <h3> 🛠 Technologies & Tools </h3>
