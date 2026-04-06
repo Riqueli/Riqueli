@@ -55,11 +55,4 @@ Sou formada em Gestão de TI e atuo como Analista de Dados. Tenho interesse em m
 
 ## 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-src="https://githubreadmestats.vercel.app/api/toplangs/username=Riqueli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Riqueli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
